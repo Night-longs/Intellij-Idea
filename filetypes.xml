@@ -5,6 +5,7 @@
       <mapping pattern="MyBatis参数处理" type="PLAIN_TEXT" />
       <mapping pattern="SpringMVC" type="PLAIN_TEXT" />
       <mapping pattern="person" type="PLAIN_TEXT" />
+      <mapping ext="jh" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
