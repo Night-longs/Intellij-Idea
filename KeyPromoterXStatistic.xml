@@ -1081,6 +1081,14 @@
           <Count>46</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Show Diagram...">
+        <Item>
+          <IdeaActionID>ShowUmlDiagram</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+U'</ShortCut>
+          <Description>Show Diagram...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Show Image Thumbnails">
         <Item>
           <IdeaActionID>Images.ShowThumbnails</IdeaActionID>
