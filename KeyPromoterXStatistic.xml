@@ -550,7 +550,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>47</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CaptcachCode.main()'">
@@ -974,7 +974,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Tomcat9.0'</Description>
-          <Count>29</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tomcat9.0.14'">
