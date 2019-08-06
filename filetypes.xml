@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="mvc_annotation-driven" type="PLAIN_TEXT" />
       <mapping pattern="employee" type="PLAIN_TEXT" />
       <mapping pattern="MyBatis参数处理" type="PLAIN_TEXT" />
       <mapping pattern="SpringMVC" type="PLAIN_TEXT" />
