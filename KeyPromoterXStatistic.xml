@@ -326,7 +326,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>107</Count>
+          <Count>109</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild Module 'FirstMavenWeb'">
@@ -982,7 +982,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Tomcat9.0'</Description>
-          <Count>59</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tomcat9.0.14'">
