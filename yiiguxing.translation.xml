@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.seckill.service.SeckillServiceTest': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private org.seckill.service.SeckillService org.seckill.service.SeckillServiceTest.seckillService; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [org.seckill.service.SeckillService] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
       <item value="Cause: java.sql.SQLException: Zero date value prohibited" />
       <item value="Caused by: com.mchange.v2.resourcepool.TimeoutException: A client timed out while waiting to acquire a resource from com.mchange.v2.resourcepool.BasicResourcePool@536f2a7e -- timeout at awaitAvailable()" />
       <item value="Caused by: java.sql.SQLException: An attempt by a client to checkout a Connection has timed out." />
@@ -10,8 +11,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="9" />
       </map>
     </option>
   </component>
